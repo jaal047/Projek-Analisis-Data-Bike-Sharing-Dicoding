@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# Dicoding Project Data Bike Sharing ✨
 
 ## Set up Environment
 
@@ -12,3 +12,6 @@
 ## Run Streamlit Dashboard 
 
 - streamlit run Dashboard_dicoding.py
+
+## Deployed Dashboard
+https://projek-bikesharing-rijal.streamlit.app/
