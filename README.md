@@ -6,8 +6,8 @@
 - pip install numpy
 - pip install pandas
 - pip install matplotlib
-- seaborn
-- plotly
+- pip install seaborn
+- pip install plotly
 
 ## Run Streamlit Dashboard 
 
